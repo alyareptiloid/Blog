@@ -1,0 +1,32 @@
+h1 {
+	color: crimson;/*Меняет цвет заголовка на голубой*/
+}
+div {
+	border: solid 3px fuchsia;/*Создаёт рамку: обычную шириной 3px тёмно-синию*/
+	background-color: mediumvioletred;/*Фон синий*/
+	padding: 10px;/*Отступ внутри контейнера*/
+}
+a {
+	color: violet;
+	text-transform: uppercase;/*Текст заглавными буквами*/
+	text-decoration: none;/*Убирает подчёркнутость*/
+}
+div ul {
+	list-style-type: none;/*Убирает точки*/
+}
+p {
+	font-style: italic;/*Текст курсив*/
+}
+span {
+	font-style: normal;
+}
+img {
+	width: 30%;
+	border-radius: 10px;
+}
+div h2 {
+	color: maroon;
+}
+.skils {
+	list-style-type: square;
+}
